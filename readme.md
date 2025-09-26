@@ -7,5 +7,6 @@ Then add a subfolder for each exercise. Each subfolder should have clear simulat
 One creates a folder by making a file "onnob/readme" say (so "onnob" before the "/" takes care that readme.md is stored in the folder "onnob"). Pull down "Add file icon".
 
 ## Finite-difference exercise
-Two example Python files: ex251intdiff.py and ex251waveqnex.py with sample exercise ex25_1.pdf
+Two example Python files: ex251intdiff.py and ex251waveqnex.py with sample exercise ex25_1example.pdf.
+Exercise one is found in ex25_1.pdf
 
