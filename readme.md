@@ -13,6 +13,12 @@ Exercise one is found in ex25_1.pdf
 ## Finite-volume exercise
 Please put in a (collective) ITY-request to install Firedrake and/or try to do so via the Docker. 
 
+Firedrake (installation and examples) https://www.firedrakeproject.org/documentation.html
+
+Two download options: follow native-installation linux instructions (e.g. use chatgpt/etc) or use the "Dockers image" (link part way donw the documentation page). Native installations is circa 50% faster.
+
+
+
 ## Finite-element exercise
 Please put in a (collective) ITY-request to install Firedrake and/or try to do so via the Docker. 
 
