@@ -8,7 +8,7 @@ One creates a folder by making a file "onnob/readme" say (so "onnob" before the 
 
 ## Finite-difference exercise
 Two example Python files: ex251intdiff.py and ex251waveqnex.py with sample exercise ex25_1example.pdf.
-Exercise one is found in ex25_1.pdf
+Exercise one is found in ex25_1.pdf (typo in eqn (9) corrected; added alpha=0 remark).
 
 ## Finite-volume exercise
 Please put in a (collective) ITY-request to install Firedrake and/or try to do so via the Docker. 
