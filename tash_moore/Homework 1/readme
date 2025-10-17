@@ -1,1 +1,5 @@
-
+Solutions for the first Example sheet: 
+File 'Numerics Homework 1' contains working and solutions for the questions 
+'steadystate.py' is the steady state solver, used in questions 2a,b and c
+'nonlinearsolver.py' is the non linear solver, used in questions 2b and c 
+'question5b' generates plots for different time steps, plots are displayed in 'Numerics Homework 1' 
