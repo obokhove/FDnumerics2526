@@ -17,6 +17,8 @@ Firedrake (installation and examples) https://www.firedrakeproject.org/documenta
 
 Two download options: follow native-installation linux instructions (e.g. use chatgpt/etc) or use the "Dockers image" (link part way donw the documentation page). Native installations is circa 50% faster.
 
+I have put the FD-FV lecture slides in the respective FVDG) folder. Please also see the url-links to related lectures.
+
 
 
 ## Finite-element exercise
