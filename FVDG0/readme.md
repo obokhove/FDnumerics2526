@@ -7,6 +7,8 @@ Two download options: follow linux instructions and use chatgpt or use the "dock
 
 The first few questions will be theoretical questions on the formulation of the numerical flux and Godunov scheme.
 
+The implementation of the finite-volume scheme as DG0 finite element method into Firedrake is explain in the Appendix of the exercise, which should be studied in detail. In addition, consider the Firedrake example: https://www.firedrakeproject.org/demos/DG_advection.py.html
+
 # Running Firedrake from docker:
 Start Docker engine in Applications folder, then in a termianl:
 docker run -it \
