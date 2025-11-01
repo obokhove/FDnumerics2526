@@ -1,6 +1,7 @@
 # FDnumerics2025
 
-## Please take care your homework carries your name and HW number: e.g., nameHWXetc.
+## Please take care your homework carries your name and HW number: e.g., nameHWXetc
+Results should be part of your answers, including plots, so only providing codes is insufficient.
 
 ## GitHub instructions
 Please make a folder with your name and therein a readme.md : e.g. <yourname>/readme.md
