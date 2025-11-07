@@ -93,6 +93,8 @@ nDG = 0
 nCG = 4
 DG0 = fd.FunctionSpace(mesh, "DG", nDG) # Finite volume
 CG1 = fd.FunctionSpace(mesh, "CG", nCG) # Continuous
+print(DG0.value_shape)
+
 A0 = fd.Function(DG0, name="A0") # Previous time step A^n
 A01 = fd.Function(DG0, name="A01")
 A02 = fd.Function(DG0, name="A02")
@@ -117,8 +119,12 @@ wid0_test = fd.TestFunction(DG0)
 tijd = 0.0
 if Nbc==4: # flow
  wx = width2ufl(w0, w1, w2, xa, xb, k1, k2, xc, xd, x)
+ print(x.ufl_shape)
+ print(wx.ufl_shape)
  A0 = fd.Function(DG0).interpolate(H0*wx+0.0*x)
  wid0 = fd.Function(CG1).interpolate(wx+0.0*x)
+
+exit()
  
 t = tijd
 t_ = fd.Constant(t)
