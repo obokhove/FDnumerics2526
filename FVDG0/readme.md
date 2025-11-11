@@ -2,7 +2,9 @@
 
 Update in (5c; typo corrected) and Exercise.
 
-Codes for TC0 and TC1 uploaded;please check and test.
+Codes for TC0 and TC1 uploaded; please check and test.
+
+NB: TC2 is incomplete.
 
 Firedrake (installation and examples)
 https://www.firedrakeproject.org/documentation.html
