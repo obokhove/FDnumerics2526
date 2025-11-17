@@ -14,6 +14,8 @@ Two example Python files: ex251intdiff.py and ex251waveqnex.py with sample exerc
 Exercise one is found in ex25_1.pdf (typo in eqn (9) corrected; added alpha=0 remark).
 
 ## Finite-volume exercise
+NB 16-11 code update and exercise update in FV folder.
+
 Please put in a (collective) ITY-request to install Firedrake and/or try to do so via the Docker. 
 
 Firedrake (installation and examples) https://www.firedrakeproject.org/documentation.html
