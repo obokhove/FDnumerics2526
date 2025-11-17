@@ -1,8 +1,13 @@
 ## Finite-volume or discontinuous Galerkin leading-order or Godunov method (FV or DG0)
 
+NB 16-11 code update and exercise update in FV folder (dated as such in file names).
+
 Update in (5c; typo corrected) and Exercise.
 
-Codes for TC0 and TC1 uploaded;please check and test.
+Codes for TC0 and TC1 uploaded; please check and test.
+
+NB: TC2 was incomplete. 16-11: TC2a: cst influx; and TC2b: time-dependent influx now work;
+There were a lot of typos in the (plotting) expressions. Also hb and wb have been made into hbb and wbb as fd.Constant(-).
 
 Firedrake (installation and examples)
 https://www.firedrakeproject.org/documentation.html
