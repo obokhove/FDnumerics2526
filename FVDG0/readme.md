@@ -1,5 +1,7 @@
 ## Finite-volume or discontinuous Galerkin leading-order or Godunov method (FV or DG0)
 
+NB 16-11 code update and exercise update in FV folder.
+
 Update in (5c; typo corrected) and Exercise.
 
 Codes for TC0 and TC1 uploaded; please check and test.
