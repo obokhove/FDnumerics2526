@@ -1,1 +1,6 @@
-
+Numerics ex2 contains solutions to exercise, and graphs of solutions for each test case.
+Test case 0, 1, 2 were run using code provided.
+Test case 3 code is a modified version of code, where expressions for test case 2 were replaced by ones needed for 3.
+This code can be found in test3.py
+Issues with this code though, as it seems to work for delta_x = 1, and CFL=0.5, but if time step is decreased by setting CFL=0.25, it breaks.
+But works fine with larger time steps and larger space steps weirdly.
