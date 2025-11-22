@@ -1,4 +1,4 @@
-Numerics ex2 contains solutions to exercise, and graphs of solutions for each test case.
+Numerics ex2 contains solutions to exercise and each test case.
 Test case 0, 1, 2 were run using code provided.
 Test case 3 code is a modified version of code, where expressions for test case 2 were replaced by ones needed for 3.
 This code can be found in test3.py
