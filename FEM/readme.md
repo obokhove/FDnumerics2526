@@ -1,3 +1,6 @@
+## FEM exercise and notes
+OB: Slides updated on 27-11-2025.
+
 ## Firedrake
 
 Load Firedrake from https://www.firedrakeproject.org/documentation.html either the recommended native version or Docker version.
