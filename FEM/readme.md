@@ -1,6 +1,13 @@
 ## FEM exercise and notes
-OB Groundwater code and exercise Part-II added.
+OB: Groundwater code and exercise Part-II added on 05-12-2025.
 OB: Slides updated on 05-112-2025.
+
+Groundwater:
+Firedrake produces results in the form of .vtu files which are grouped together
+in a .pvd file. We visualise this data using paraview. Select the green apply button. Now you can visualise the data either changing the colour scheme, which is recommended 2d or 3d data, or for the 1d
+examples we can use warpbyscalar. Go to filters/alphabetical/warpbyscalar. Now click the (green) apply button again. The time bar can now advance the simulation through time. 
+
+In 1D, got to filters/alphabetical/plotoverline On left panel choose “Bot tom axis fixed” and choose a maximum. In view/animationview set the speed of the animation, etc. One can snap through by hand to see the profiles one by one. (OB 05-12-205: This worked in older Paraview but not yet in Paraview 5.13 --please report when you got it to work in 5.13 or higher, and how.)
 
 ## Firedrake
 
