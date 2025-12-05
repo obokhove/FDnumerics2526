@@ -1,5 +1,6 @@
 ## FEM exercise and notes
-OB: Slides updated on 27-11-2025.
+OB Groundwater code and exercise Part-II added.
+OB: Slides updated on 05-112-2025.
 
 ## Firedrake
 
