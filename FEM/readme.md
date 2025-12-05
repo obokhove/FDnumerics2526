@@ -1,4 +1,9 @@
 ## FEM exercise and notes
+
+## NB Part-I: The Poisson equation exercise; Part: Groundwater exercise
+For Part-II: all derivation answers are found in the Appendix; please only provide missing lines in the derivation and refer to the document (eqns) and code provided. Gaol of Part-II is familiarisation with a more complex Firedrake-FEM application!
+
+
 OB: Groundwater code and exercise Part-II added on 05-12-2025.
 OB: Slides updated on 05-112-2025.
 
