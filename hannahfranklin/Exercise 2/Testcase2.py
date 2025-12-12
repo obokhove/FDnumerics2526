@@ -302,9 +302,9 @@ elif nRP==1:
 #
 eta12 = np.array([h00.at(x) for x in xvals]) #
 Q12 = np.array([FA00.at(x) for x in xvals]) #
-ax1.plot(xvals,eta12,'--k',linewidth=3) #
-ax2.plot(xvals,area,'--k',linewidth=3) #
-ax3.plot(xvals,Q12,'--k',linewidth=3) #
+ax1.plot(xvals,eta12,'--k',linewidth=3) #plotting the height
+ax2.plot(xvals,area,'--k',linewidth=3) #plotting the area
+ax3.plot(xvals,Q12,'--k',linewidth=3) #plotting the fluc
 toc = time.time() - tic
 print('Elapsed time (min):', toc/60)
 fig.savefig('sweDG0FVfin.png')
