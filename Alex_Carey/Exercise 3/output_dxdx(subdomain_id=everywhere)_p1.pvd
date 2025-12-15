@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
+<Collection>
+<DataSet timestep="0" file="output_dxdx(subdomain_id=everywhere)_p1/output_dxdx(subdomain_id=everywhere)_p1_0.vtu" />
+</Collection>
+</VTKFile>
