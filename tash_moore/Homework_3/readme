@@ -1,1 +1,8 @@
 FEMHomework_q1-3_writtenanswers_tashmoore.pdf contains solutions for Questions 1 to 3 of FEM sheet 
+FEMHomework_q4-6_typedanswers_tashmoore.pdf contains solutions for Questions 4 to 6 of FEM sheet 
+
+poissoneq_1 is code used for questions 4 and 5
+poissoneq_testph was used to vary p and h, used in question 4
+poissoneq_edited is code used for q6, edited for a differnt u and f 
+
+codes are provided in notebook (.ipynb) and regular (.py) format 
