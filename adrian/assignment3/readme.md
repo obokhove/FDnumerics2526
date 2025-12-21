@@ -1,1 +1,2 @@
 - adrian_poisson.pdf contains theory for the first exercise sheet of the assignment 3!
+- adrian_poisson.ipynb is a jupyter notebook containg answers to sheet 1 of assignment 3!
