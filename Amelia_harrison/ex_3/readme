@@ -1,1 +1,9 @@
+numerics_ex3_amelia_harrison.pdf contains solutions to both parts of the exercise
+poisson_eq_AH_ex3.py contains the code from part 1. To implement the different functions/bcs shown in the solutions for part 1, q6, 
+change value of f_choice in the code then run. Details of these can be found in code comments
 
+growundwater_amelia_harrison.py contains the code from part 2.
+Set Rvar=0 for constant rainfall
+Set Rvar=1 for variable rainfall
+To compare finite difference and finite element solutions, set finite_diff=1
+(finite_diff=0 for just finite element)
