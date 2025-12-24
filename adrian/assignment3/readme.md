@@ -1,2 +1,5 @@
 - adrian_poisson.pdf contains theory for the first exercise sheet of the assignment 3!
 - adrian_poisson.ipynb is a jupyter notebook containg answers to sheet 1 of assignment 3!
+    - whole sheet
+- adrain_groundwater.ipynb is a jupyter notebook containing answers to sheet 2 assignment 3!
+    - questions 2 and 4. I did not do question 3.
